@@ -1,0 +1,1 @@
+A Simple and Minimal Text Editor
